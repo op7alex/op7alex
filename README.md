@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @op7alex
+- 👀 I’m interested in coding  
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate on creating and AI for an automated day planner
+- 📫 How to reach me @GitHub
